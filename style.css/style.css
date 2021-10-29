@@ -89,5 +89,10 @@ text-align: center;
     flex-direction: row;
     padding: 80px;
 }
-
-
+footer{
+    color: white;
+    background: black;   
+}
+h2{
+    margin: 0;
+}
